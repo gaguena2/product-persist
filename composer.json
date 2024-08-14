@@ -1,0 +1,18 @@
+{
+    "name": "gaguena/product-persist",
+    "autoload": {
+        "psr-4": {
+            "Gaguena\\ProductPersist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Aguena",
+            "email": "gaguena@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.7"
+    }
+}
